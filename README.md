@@ -1,6 +1,6 @@
 # ColorFight-AI
 ColorFight AI competition is hosted by UCSB IEEE and Green Hills Software    
-AI_V3 was the champion of season 2  
+AI_V3 won the championship of season 2  
 ## Rules and API
 https://github.com/gaogaotiantian/colorfightai  
 ## Season 2 Final Round
