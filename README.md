@@ -1,6 +1,8 @@
 # ColorFight-AI
 ColorFight AI competition is hosted by UCSB IEEE and Green Hills Software.
+
 The goal of the competition is to occupy the most cells (territory) among all competing AI's.
+
 AI_V3 won the championship of season 2.
 ## Rules and API
 https://github.com/gaogaotiantian/colorfightai  
